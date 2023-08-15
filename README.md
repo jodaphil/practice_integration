@@ -1,4 +1,4 @@
 # practice_integration
 for practicing setup with environment
 
-I like cheeseburgers. They are my favorite food.
+I will continue to practice add and test functionality on this repo
